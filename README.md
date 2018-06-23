@@ -1,4 +1,5 @@
 # jawordpressorg/ideas
+[![Build Status](https://travis-ci.org/jawordpressorg/ideas?branch=master)](https://travis-ci.org/jawordpressorg/ideas)
 
 ## アイディアを募集中 !
 
